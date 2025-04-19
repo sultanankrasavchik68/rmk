@@ -1,0 +1,10 @@
+.box{
+    padding: 40;
+    margin: 40;
+    background-color: red;
+}
+
+.highlight{
+    background-color: rgb(245, 227, 220);
+    color: red;
+}
